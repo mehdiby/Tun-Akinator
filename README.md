@@ -1,3 +1,6 @@
+![demo gif](file.gif)
+
+
 # Tun-Akinator
 Tunisian Akinator is a Python-based implementation of the classic Akinator game, but with a customizable dataset of characters. The game tries to guess which  character the user is thinking(that includes tunisian fictional characters) of by asking a series of yes/no questions. The questions are chosen based on a decision tree algorithm that uses machine learning techniques to maximize the information gain at each step.
 
@@ -19,7 +22,6 @@ When you start the game, you will be asked a series of questions. Answer each qu
 
 If the game makes the correct prediction, click the "r" key to play another round. 
 
-![demo gif](file.gif)
 
 ## Data Science
 
